@@ -2,7 +2,7 @@
 
 I'm a web developper for 10+ years and SAAS Builder. I love creating products, learning new stuff, and improving myself.
 
-You can check out my code here, or check my writings on medium : https://medium.com/julienarcin
+You can check my code here, or read my articles on medium: https://julienarcin.medium.com
 
 ## My projects
 
