@@ -12,8 +12,8 @@
 I built 2 projects dedicated to help businesses find B2B leads. 
 |  |  |
 |--|--|
-| [<img src="https://d4nwumllxfd0x.cloudfront.net/884d1d88-dcd9-48ee-a00e-76a53e1fae82/images/logo-black.svg" alt="Scrap.io" width="220"/>](https://scrap.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Get unlimited local leads from Google Maps |
-| [<img src="https://d128l2grtqmub0.cloudfront.net/4130b67f-046e-4c14-9f8d-dfbe9e4bf5ec/images/logo-black.svg" alt="LinkLead.io" width="250"/>](https://linklead.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Create B2B lists in seconds |
+| [<img src="https://github.com/julienarcin/julienarcin/blob/4bf98bec20621a626852100c510e45609162657b/scrap-io.png" alt="Scrap.io" width="220"/>](https://scrap.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Get unlimited local leads from Google Maps |
+| [<img src="https://github.com/julienarcin/julienarcin/blob/4bf98bec20621a626852100c510e45609162657b/linklead.png" alt="LinkLead.io" width="250"/>](https://linklead.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Create B2B lists in seconds |
 |  |  |
 ---
 ### 📊  My stats
