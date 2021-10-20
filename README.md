@@ -5,7 +5,7 @@
 - 🖥 I am a backend engineer, experienced in using PHP/MySQL and the laravel framework.
 - 🎁 I have contributed to open-source projects, mainly in the laravel ecosystem.
 - 🪙 I am a blockchain and crypto-enthusiast.
-- 🎯 **My life goal:** Create clean and scalable code to help businesses scale.
+- 🎯 **My life goal:** Create clean code to help businesses scale.
 
 ---
 ### ⚡  My projects
