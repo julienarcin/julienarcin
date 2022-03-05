@@ -8,7 +8,8 @@
 - 🎯 **My life goal:** Create clean code to help businesses scale.
 ---
 
-🤝 Want to meet? Check here ➡️ https://calendly.com/julienarcin/meeting
+### 🤝 Want to meet? 
+Check here ➡️ https://calendly.com/julienarcin/meeting
 
 ---
 ### ⚡  My projects
