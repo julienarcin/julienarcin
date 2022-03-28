@@ -1,6 +1,6 @@
-# Hi there, I'm Julien ✌️
+# Hi there, I'm Julien
 
-### <ins>I'm a web developper for 10+ years and SAAS Builder.</ins>
+### ✌ I'm a web developper for 10+ years and SAAS Builder.</ins>
 - 🚀 I'm interested in the startup ecosystem, and I love to find new ways to build and scale businesses.
 - 🖥 I am a backend engineer, experienced in using PHP/MySQL and the laravel framework.
 - 🎁 I have contributed to open-source projects, mainly in the laravel ecosystem.
@@ -8,12 +8,11 @@
 - 🎯 **My life goal:** Create clean code to help businesses scale.
 ---
 
-### 🤝 Want to meet? 
-Check here ➡️ https://calendly.com/julienarcin/meeting
+### 🗓 Want to meet? 
+Check here -> https://calendly.com/julienarcin/meeting
 
 ---
 ### ⚡  My projects
-I built 2 projects dedicated to help businesses find B2B leads. 
 |  |  |
 |--|--|
 | [<img src="https://github.com/julienarcin/julienarcin/blob/4bf98bec20621a626852100c510e45609162657b/scrap-io.png" alt="Scrap.io" />](https://scrap.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Get unlimited leads from Google Maps |
