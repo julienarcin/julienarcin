@@ -2,10 +2,9 @@
 
 ### ✌ I'm a web developper for 10+ years and SAAS Builder.</ins>
 - 🚀 I'm interested in the startup ecosystem, and I love to find new ways to build and scale businesses.
-- 🖥 I am a backend engineer, experienced in using PHP/MySQL and the laravel framework.
+- 🖥 I am a backend engineer, experienced PHP/MySQL and the laravel framework.
 - 🎁 I have contributed to open-source projects, mainly in the laravel ecosystem.
 - 🪙 I am a blockchain and cryptocurrencies enthusiast.
-- 🎯 **My life goal:** Create clean code to help businesses scale.
 ---
 
 ### 🗓 Want to meet? 
