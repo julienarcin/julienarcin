@@ -15,8 +15,8 @@ Check here -> https://calendly.com/julienarcin/meeting
 |  |  |  |
 |--|--|--|
 | [<img src="https://raw.githubusercontent.com/julienarcin/julienarcin/master/scrap-io.png" alt="Scrap.io" />](https://scrap.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Get unlimited leads from Google Maps | <sub>*main project*</sub> |
-| [<img src="https://github.com/julienarcin/julienarcin/blob/master/veem.png" alt="Veem.io"/>](https://veem.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Market signals | <sub>*side project*</sub> | 
 | [<img src="https://github.com/julienarcin/julienarcin/blob/898f43201b45e7e61ed20f0bdb93c4d0a0359add/linklead.png" alt="LinkLead.io"/>](https://linklead.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Create B2B lists in seconds |  <sub>*on hold*</sub> | 
+| [<img src="https://github.com/julienarcin/julienarcin/blob/master/veem.png" alt="Veem.io"/>](https://veem.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Market signals | <sub>*side project*</sub> | 
 |  |  |  |
 ---
 ### 📊  My stats
