@@ -7,8 +7,10 @@
 - 🪙 I am a blockchain and cryptocurrencies enthusiast.
 ---
 
-### 🗓 Want to meet? 
-Check here 👉 https://calendly.com/julienarcin/meeting
+###  🔌 Let's connect 
+🗓 Book a meeting 👉 https://calendly.com/julienarcin/meeting
+🔗 Connect with me on LinkedIn 👉 https://www.linkedin.com/in/julien-arcin/
+📩 Send me an email 👉 
 
 ---
 ### ⚡  My projects
