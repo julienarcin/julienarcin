@@ -10,7 +10,7 @@
 ###  🔌 Let's connect 
 - 🗓 Book a meeting 👉 https://calendly.com/julienarcin/meeting
 - 🔗 Connect with me on LinkedIn 👉 https://www.linkedin.com/in/julien-arcin/
-- 📩 Send me an email 👉 <img src="https://raw.githubusercontent.com/julienarcin/julienarcin/master/email-scrapio.png" alt="Send me an email" />
+- 📩 Send me an email 👉 julien (at) scrap.io
 
 ---
 ### ⚡  My projects
