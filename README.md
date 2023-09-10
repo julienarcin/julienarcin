@@ -8,7 +8,6 @@
 ---
 
 ###  🔌 Let's connect 
-- 🗓 Book a meeting 👉 [https://calendly.com/julienarcin/meeting](https://calendly.com/julienarcin/meeting)
 - 🔗 Connect with me on LinkedIn 👉 [https://www.linkedin.com/in/julien-arcin/](https://www.linkedin.com/in/julien-arcin/)
 - 📩 Send me an email 👉 julien (at) scrap.io
 
