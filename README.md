@@ -15,6 +15,6 @@
 ### ⚡  My projects
 |  |  |  |
 |--|--|--|
-| [<img src="https://raw.githubusercontent.com/julienarcin/julienarcin/master/scrap-io.png" alt="Scrap.io" />](https://scrap.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Get unlimited leads from Google Maps | <sub>*main project*</sub> |
+| [<img src="https://raw.githubusercontent.com/julienarcin/julienarcin/master/scrap-io.png" alt="Scrap.io" />](https://scrap.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Google Maps leads generator | <sub>*main project*</sub> |
 | [<img src="https://github.com/julienarcin/julienarcin/blob/master/veem-2.png" alt="Veem.io"/>](https://veem.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Automated investment portfolio | <sub>*side project*</sub> | 
 |  |  |  |
