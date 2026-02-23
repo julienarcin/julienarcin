@@ -14,5 +14,5 @@
 ### ⚡  My projects
 |  |  |  |
 |--|--|--|
-| [<img src="https://raw.githubusercontent.com/julienarcin/julienarcin/master/scrap-io.png" alt="Scrap.io" />](https://scrap.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Google Maps leads generator |
+| [<img src="https://raw.githubusercontent.com/julienarcin/julienarcin/master/scrap-io.png" alt="Scrap.io" />](https://scrap.io?utm_medium=social&utm_source=github&utm_content=ja_profile) |  Maps leads generator |
 |  |  |  |
